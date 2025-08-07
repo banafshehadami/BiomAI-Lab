@@ -1,0 +1,6 @@
+numpy>=1.0
+scipy>=1.0
+torch>=1.0
+opencv-python>=4.0
+h5py>=3.0
+matplotlib>=3.0
